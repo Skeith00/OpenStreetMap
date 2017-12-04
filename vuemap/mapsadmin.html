@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">  
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.css">
+		<style>
+				label > input[type="radio"]{ /* HIDE RADIO */
+					visibility: hidden; /* Makes input not-clickable */
+					position: absolute; /* Remove input from document flow */
+				}
+				label > input[type="radio"]:checked + img{ /* (RADIO CHECKED) IMAGE STYLES */
+					border-radius: 100px;
+					background-color: rgb(86, 108, 206);
+					border: solid;
+					box-shadow: 10px 15px 15px #888888;
+				}
+		</style>
+	</head>
+	<body>
+		<div class="container">					
+			<div class="columns">	
+				<div class="column">
+					<section class="hero is-info welcome is-small" style="margin-top: 25px;border-radius: 15px 50px 30px;">
+							<div class="hero-body">
+								<div class="container">
+								<h1 class="title">
+									Maps Admin Demo
+								</h1>
+								</div>
+							</div>
+					</section>
+					<section class="section">
+							<div id="main" class="container">
+								<admin></admin>
+							</div>
+					</section>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://unpkg.com/vue@2.5.2/dist/vue.js"></script>
+		<script src="./dist/mapsadmin.js"></script>
+	</body>
+</html>

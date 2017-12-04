@@ -1,0 +1,313 @@
+[ {
+  "latitude" : 41.3851,
+  "longitude" : 2.1734,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Barcelona winery",
+      "title" : "Barcelona"
+    },
+    "sp" : {
+      "description" : "Bodega en Barcelona",
+      "title" : "Barcelona"
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 52.52,
+  "longitude" : 13.405,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "kARTOFEN",
+      "title" : "Berlin"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 59.9139,
+  "longitude" : 10.7522,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Cold Wine",
+      "title" : "Oslo"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 50.8503,
+  "longitude" : 4.3517,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Belgium wine",
+      "title" : "Brussels"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 40.4168,
+  "longitude" : -3.7038,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Bull wine",
+      "title" : "Madrid"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 53.3498,
+  "longitude" : -6.2603,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Better than Guiness",
+      "title" : "Dublin"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 55.6761,
+  "longitude" : 12.5683,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Main Denmark Winery.",
+      "title" : "Copenhaguen"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 41.9028,
+  "longitude" : 12.4964,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Famous winery in Italy. OD Rome.",
+      "title" : "Rome"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 45.0703,
+  "longitude" : 7.6869,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Italian wine from Alps",
+      "title" : "Turin"
+    },
+    "sp" : {
+      "description" : "Vino italiano de los Alps",
+      "title" : "Turin"
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 51.5074,
+  "longitude" : 0.1278,
+  "type" : null,
+  "languages" : {
+    "en" : {
+      "description" : "Wine From London",
+      "title" : "London"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 41.6176,
+  "longitude" : 0.62,
+  "type" : "wineIcon",
+  "languages" : {
+    "en" : {
+      "description" : "Lleida Forever",
+      "title" : "Lleida"
+    },
+    "sp" : {
+      "description" : "Lleida per sempre",
+      "title" : "Lleida"
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+}, {
+  "latitude" : 48.8566,
+  "longitude" : 2.3522,
+  "type" : "cheeseIcon",
+  "languages" : {
+    "en" : {
+      "description" : "Best Wine in all France",
+      "title" : "Paris"
+    },
+    "sp" : {
+      "description" : null,
+      "title" : null
+    },
+    "fr" : {
+      "description" : null,
+      "title" : null
+    },
+    "gr" : {
+      "description" : null,
+      "title" : null
+    },
+    "du" : {
+      "description" : null,
+      "title" : null
+    }
+  }
+} ]
